@@ -16,9 +16,6 @@ namespace hello_world {
 // file. Because it is inside of the 'hello_world' namespace, it's full name is
 // 'hello_world::hello()'.
 std::string hello();
-{
-    return "Hello World";
-}
 
 }  // namespace hello_world
 
